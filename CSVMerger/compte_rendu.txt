@@ -1,0 +1,4 @@
+Fichiers fusionnés: 3
+Ligne initiales: 32
+Ligne finale: 29
+Revenue total: 676.05
